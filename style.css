@@ -94,3 +94,15 @@
     margin-left: 529px;
 }
 /* section two */
+.section-two-content{
+    margin: 160px 0 0 120px;
+}
+.section-two-content h1{
+    font-weight: 900;
+    width: 30vw;
+}
+.section-two-content p{
+    font-weight: 400;
+    font-size: 10px;
+    width: 30vw;
+}
